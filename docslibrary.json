@@ -1,0 +1,42 @@
+{
+  "version": "1.0.0",
+  "updated": "2025-08-10T00:00:00Z",
+  "items": [
+    {
+      "id": "doc-001",
+      "title": "Order Flow Cheat Sheet",
+      "description": "Quick PDF reference.",
+      "type": "pdf",
+      "path": "files/order-flow.pdf",
+      "tags": ["trading","atlas"],
+      "updated": "2025-08-01T12:00:00Z"
+    },
+    {
+      "id": "doc-002",
+      "title": "Nova Notes",
+      "description": "Text sample shown in modal.",
+      "type": "text",
+      "path": "files/nova-notes.txt",
+      "tags": ["notes","nova"],
+      "updated": "2025-08-02T10:30:00Z"
+    },
+    {
+      "id": "doc-003",
+      "title": "Lyra Portrait",
+      "description": "Sample image preview.",
+      "type": "image",
+      "path": "images/lyra.jpg",
+      "tags": ["lyra","art"],
+      "updated": "2025-08-03T09:00:00Z"
+    },
+    {
+      "id": "doc-004",
+      "title": "Nova Banner",
+      "description": "Sample image used in cards.",
+      "type": "image",
+      "path": "images/nova-card.jpg",
+      "tags": ["nova"],
+      "updated": "2025-08-04T15:45:00Z"
+    }
+  ]
+}
