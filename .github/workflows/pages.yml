@@ -20,7 +20,6 @@ jobs:
       name: github-pages
     steps:
       - uses: actions/checkout@v4
-      # If your Vite build already wrote to docs/, upload that:
       - uses: actions/upload-pages-artifact@v3
         with:
           path: docs
